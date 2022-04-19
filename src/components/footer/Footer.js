@@ -33,16 +33,16 @@ const Footer = () => {
 							<div className="vl"></div>
 							<div className="link">
 								<p className="title">LINKS</p>
-								<Link to="/about" className="text">
+								<Link to="/home" className="text">
 									Home
 								</Link>
-								<Link to="/Contact" className="text">
+								<Link to="/about-us" className="text">
 									About us
 								</Link>{" "}
-								<Link to="/blog" className="text">
+								<Link to="/features" className="text">
 									Features
 								</Link>
-								<Link to="/blog" className="text">
+								<Link to="/newsroom" className="text">
 									Newsroom
 								</Link>
 							</div>
