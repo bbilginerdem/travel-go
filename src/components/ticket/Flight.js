@@ -1,11 +1,6 @@
 import React from "react";
 import { Container } from "../../styles/Common.style";
-import {
-	// FlightCard,
-	// FlightGrid,
-	// FlightHeader,
-	FlightWrapper,
-} from "./Flight.style";
+import { FlightWrapper } from "./Flight.style";
 import Row from "../row/Row";
 
 const Flight = () => {
